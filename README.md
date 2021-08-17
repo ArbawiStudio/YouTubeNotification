@@ -7,6 +7,9 @@ module.exports = {
     channel_id: "" 
     ^^^^^^^^^^^^^^
 }
+
+--> https://media.discordapp.net/attachments/868100658946002965/876995167419260938/YouTube_Gif.gif
+
 ```
 
 [Replit Run](https://replit.com/@ArbawiStudio/YouTube-Notification)
