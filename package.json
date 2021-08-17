@@ -1,0 +1,25 @@
+{
+  "name": "youtube-notification-bot",
+  "version": "1.0.0",
+  "description": "YouTube Notification",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/youtube-notification"
+  },
+  "keywords": [
+    "youtube",
+    "discord.js",
+    "notification-bot"
+  ],
+  "author": "Mayank",
+  "license": "MIT",
+  "homepage": "https://glitch.com/edit/#!/youtube-notification",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "quick.db": "^7.1.2",
+    "rss-parser": "^3.12.0"
+  }
+}
