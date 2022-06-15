@@ -2,10 +2,9 @@
 
 ```js
 module.exports = {
-    channel: "",
-    messageTemplate: "Hello @everyone, **{author}** just now uploaded a video **{title}**!\n{url}",
-    channel_id: "" 
-    ^^^^^^^^^^^^^^
+    channel: "", // Notification Text/News Channel
+    messageTemplate: "Hello @everyone, **{author}** just now uploaded a video **{title}**!\n{url}", // Notification Message
+    channel_id: "" // YouTube Channel ID
 }
 ```
 
