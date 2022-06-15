@@ -1,5 +1,3 @@
-### How Get Channel ID
-
 ```js
 module.exports = {
     channel: "", // Notification Text/News Channel
