@@ -20,7 +20,6 @@ client.on("ready", () => {
 
 	client.user.setPresence({ status: 'idle' });
     console.log(`Logged in as ${client.user.tag}`)
-    console.log(`Support Server > https://www.discord.gg/3Zaxc3EaYt`)
     handleUploads();
   client.user.setActivity(`YourName`, ({type: "WATCHING", url: "https://www.twitch.tv/username"})) //STREAMING
 });
